@@ -4,7 +4,6 @@ body {
   text-align: center;
 }
 
-.navigation-links a:visited {
+footer a:visited {
   color: green;
-  padding: 10px;
 }
