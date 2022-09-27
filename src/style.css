@@ -1,6 +1,8 @@
 body {
   background-color: bisque;
+  text-align: center;
 }
-h1 {
-  color: red;
+
+.navigation-links {
+  color: green;
 }
